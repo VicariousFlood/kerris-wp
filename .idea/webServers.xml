@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39d94a36-1c7f-4eec-9226-48975b914b77" name="kerris" url="http://vicariousflo.nazwa.pl">
+        <fileTransfer host="vicariousflo.nazwa.pl" port="21" rootFolder="/kerris">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
